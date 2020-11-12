@@ -338,6 +338,8 @@ See [Latency numbers every programmer should know](https://github.com/donnemarti
 
 * [primer | (Ctrl + F) = 'twitter'](https://github.com/rahulkadamid/system-design-primer) 
 * [educative - Designing Twitter](https://www.educative.io/courses/grokking-the-system-design-interview/m2G48X18NDO) 
+* [youtube - Lecture 21 Raffi Krikorian Twitter](https://www.youtube.com/watch?v=VttXHNveuwI) 
+* [youtube - Lecture 14, How Twitter Works, with Raffi Krikorian](https://www.youtube.com/watch?v=zonv2X1g_mQ) 
 * [youtube - Real-Time & Personalized Notifications @Twitter](https://www.youtube.com/watch?v=pme_n2zQiDQ) 
 * [youtube - Real-Time Delivery Architecture at Twitter](https://www.youtube.com/watch?v=J5auCY4ajK8)  
 * [youtube - How We Learned to Stop Worrying and Love Fan-In at Twitter](https://www.youtube.com/watch?v=WEgCjwyXvwc) 
@@ -353,6 +355,8 @@ See [Latency numbers every programmer should know](https://github.com/donnemarti
 * [educative - Designing Twitter](https://www.educative.io/courses/grokking-the-system-design-interview/gxpWJ3ZKYwl) 
 * [youtube - Scaling Facebook Live Videos to a Billion Users](https://www.youtube.com/watch?v=IO4teCbHvZw) 
 * [youtube - Building Real Time Infrastructure at Facebook - Facebook - SRECon2017](https://www.youtube.com/watch?v=ODkEWsO5I30) 
-* [youtube - F8 2015 - How News Feed Works](https://www.youtube.com/watch?v=8-Yhpz_SKiQ) 
+* [youtube - F8 2015 - How News Feed Works](https://www.youtube.com/watch?v=8-Yhpz_SKiQ)  
+* [youtube - Interview How To Design FaceBook In System Design](https://www.youtube.com/watch?v=VQiwTMSaphI) 
+
 
 
