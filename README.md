@@ -300,7 +300,8 @@ Check out the following links to get a better idea of what to expect:
 | Design a key-value store for a search engine | [Solution](solutions/system_design/query_cache/README.md) |
 | Design Amazon's sales ranking by category feature | [Solution](solutions/system_design/sales_rank/README.md) |
 | Design a system that scales to millions of users on AWS | [Solution](solutions/system_design/scaling_aws/README.md) |
-| Design Messenger applicatiopn | [Solution](solutions/system_design/messenger_app/README.md) |
+| Design Messenger application | [Solution](solutions/system_design/messenger_app/README.md) |
+| Design Slack | [Solution](solutions/system_design/slack_app/README.md) |
 | Add a system design question | [Contribute](#contributing) |
 
 ### Design Pastebin.com (or Bit.ly)
