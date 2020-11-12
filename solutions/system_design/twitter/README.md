@@ -331,3 +331,28 @@ See [Latency numbers every programmer should know](https://github.com/donnemarti
 
 * Continue benchmarking and monitoring your system to address bottlenecks as they come up
 * Scaling is an iterative process
+
+### Other References
+
+#### Twitter:
+
+* [primer | (Ctrl + F) = 'twitter'](https://github.com/rahulkadamid/system-design-primer) 
+* [educative - Designing Twitter](https://www.educative.io/courses/grokking-the-system-design-interview/m2G48X18NDO) 
+* [youtube - Real-Time & Personalized Notifications @Twitter](https://www.youtube.com/watch?v=pme_n2zQiDQ) 
+* [youtube - Real-Time Delivery Architecture at Twitter](https://www.youtube.com/watch?v=J5auCY4ajK8)  
+* [youtube - How We Learned to Stop Worrying and Love Fan-In at Twitter](https://www.youtube.com/watch?v=WEgCjwyXvwc) 
+* [youtube - Keynote: Twitter's search architecture](https://www.youtube.com/watch?v=AguWva8P_DI)
+* [youtube - How to answer design question: How do you design a twitter?](https://www.youtube.com/watch?v=gX8S7b8UYl8)
+* [youtube - Tom Ashworth - GraphQL at Twitter](https://www.youtube.com/watch?v=Baw05hrOUNM)
+* [youtube - Interview System Design: How to design Twitter?](https://www.youtube.com/watch?v=KmAyPUv9gOY)
+* [youtube - Interview Twitter system design](https://www.youtube.com/watch?v=wYk0xPP_P_8)
+
+#### Facebook:
+
+* [primer | (Ctrl + F) = 'facebook'](https://github.com/rahulkadamid/system-design-primer) 
+* [educative - Designing Twitter](https://www.educative.io/courses/grokking-the-system-design-interview/gxpWJ3ZKYwl) 
+* [youtube - Scaling Facebook Live Videos to a Billion Users](https://www.youtube.com/watch?v=IO4teCbHvZw) 
+* [youtube - Building Real Time Infrastructure at Facebook - Facebook - SRECon2017](https://www.youtube.com/watch?v=ODkEWsO5I30) 
+* [youtube - F8 2015 - How News Feed Works](https://www.youtube.com/watch?v=8-Yhpz_SKiQ) 
+
+
