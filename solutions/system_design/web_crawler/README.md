@@ -354,4 +354,5 @@ See [Latency numbers every programmer should know](https://github.com/donnemarti
 
 ### References
 * [educative](https://www.youtube.com/results?search_query=Designing+a+Web+Crawler)
-* [youtube-search results](https://www.youtube.com/results?search_query=Designing+a+Web+Crawler)
+* [youtube - search results](https://www.youtube.com/results?search_query=Designing+a+Web+Crawler)
+   * [youtube - web crawler udacity](https://www.youtube.com/watch?v=CDXOcvUNBaA)
