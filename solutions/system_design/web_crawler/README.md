@@ -351,3 +351,7 @@ See [Latency numbers every programmer should know](https://github.com/donnemarti
 
 * Continue benchmarking and monitoring your system to address bottlenecks as they come up
 * Scaling is an iterative process
+
+### References
+* [educative](https://www.youtube.com/results?search_query=Designing+a+Web+Crawler)
+* [youtube-search results](https://www.youtube.com/results?search_query=Designing+a+Web+Crawler)
