@@ -1585,16 +1585,17 @@ You'll sometimes be asked to do 'back-of-the-envelope' estimates.  For example, 
 ### Powers of two table
 
 ```
-Power           Exact Value         Approx Value        Bytes
+Power           Exact Value         Approx Value          Bytes
 ---------------------------------------------------------------
 7                             128
 8                             256
-10                           1024   1 thousand           1 KB
-16                         65,536                       64 KB
-20                      1,048,576   1 million            1 MB
-30                  1,073,741,824   1 billion            1 GB
-32                  4,294,967,296                        4 GB
-40              1,099,511,627,776   1 trillion           1 TB
+10                           1024   1 thousand(10^3)      1 KB (kilobyte)
+16                         65,536                         64 KB
+20                      1,048,576   1 million(10^6)       1 MB (megabyte)
+30                  1,073,741,824   1 billion(10^9)       1 GB (gigabyte)
+32                  4,294,967,296                         4 GB
+40              1,099,511,627,776   1 trillion(10^12)     1 TB (terabyte)
+50          1,125,899,906,842,624   1 quadrillion(10^15)  1 PB (petabyte)
 ```
 
 #### Source(s) and further reading
