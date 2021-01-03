@@ -166,6 +166,7 @@ Review the [Contributing Guidelines](CONTRIBUTING.md).
     * [User datagram protocol (UDP)](#user-datagram-protocol-udp)
     * [Remote procedure call (RPC)](#remote-procedure-call-rpc)
     * [Representational state transfer (REST)](#representational-state-transfer-rest)
+* [Web Architecture 101](#web-architecture-101)
 * [Security](#security)
 * [Appendix](#appendix)
     * [Powers of two table](#powers-of-two-table)
@@ -1560,6 +1561,11 @@ REST is focused on exposing data.  It minimizes the coupling between client/serv
 * [Crack the system design interview](http://www.puncsky.com/blog/2016-02-13-crack-the-system-design-interview)
 * [Thrift](https://code.facebook.com/posts/1468950976659943/)
 * [Why REST for internal use and not RPC](http://arstechnica.com/civis/viewtopic.php?t=1190508)
+
+## Web Architecture 101
+
+* [videoblocks](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
+
 
 ## Security
 
